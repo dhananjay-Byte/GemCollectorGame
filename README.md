@@ -3,6 +3,12 @@
 ## Description
 An Role Playing Game made with raylib library C/C++ where you collect gems as a samurai and protect yourself from enemies. The gameplay revolves around collecting the gems around the map that are randomly spawned in the map and kill the main ghost once you collect all 5 gems or crystals.
 
+# Languages
+  C/C++
+
+# Library
+  Raylib
+
 ## How to Run:
 
 1. clone the repositry into your desktop or laptop.
