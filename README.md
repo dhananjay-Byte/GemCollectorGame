@@ -27,6 +27,9 @@ An Role Playing Game made with raylib library C/C++ where you collect gems as a 
 
 ![First RPG Game 2023-08-30 13-34-49](https://github.com/dhananjay-Byte/GemCollectorGame/assets/82323909/1c446ea9-e168-45df-9c3b-2cace5817e13)
 
+## Assets Credits:
 
-
+samurai assets : https://craftpix.net/freebies/free-samurai-pixel-art-sprite-sheets/?num=1&count=4&sq=samurai&pos=3
+slime: https://craftpix.net/freebies/free-slime-sprite-sheets-pixel-art/
+ghost: https://craftpix.net/freebies/free-ghost-pixel-art-sprite-sheets/?num=1&count=19&sq=ghost&pos=2
 
