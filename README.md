@@ -1,7 +1,7 @@
 # GemCollectorGame
 
 ## Description
-An Role Playing Game made with raylib library C++ where you collect gems as a samurai and protect yourself from enemies. The gameplay revolves around collecting the gems around the map that are randomly spawned in the map and kill the main ghost once you collect all 5 gems or crystals.
+An Role Playing Game made with raylib library C/C++ where you collect gems as a samurai and protect yourself from enemies. The gameplay revolves around collecting the gems around the map that are randomly spawned in the map and kill the main ghost once you collect all 5 gems or crystals.
 
 ## How to Run:
 
