@@ -12,8 +12,17 @@ An Role Playing Game made with raylib library C++ where you collect gems as a sa
 ## How To Play:
 
 1. press enter when you see the main menu like below.
+   
    ![Screenshot (435)](https://github.com/dhananjay-Byte/GemCollectorGame/assets/82323909/b7adfe2b-eedf-4b7d-a522-b6b19ad3ea53)
-2.
+
+2. Once you press Enter you will be spawned at the starting position in the map.
+
+   ![Screenshot (436)](https://github.com/dhananjay-Byte/GemCollectorGame/assets/82323909/3a8d792a-346f-4f90-be3c-0b347f02d10c)
+
+3. use W A S D to move the character UP LEFT DOWN RIGHT and use left-click to use sword and runover the gems to collect them.
+   
+4. Once you collect all 5 gems make sure you kill the ghost then you will be able to win the game.
+
 
 
 
