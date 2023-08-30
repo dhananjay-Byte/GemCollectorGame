@@ -23,6 +23,10 @@ An Role Playing Game made with raylib library C/C++ where you collect gems as a 
    
 4. Once you collect all 5 gems make sure you kill the ghost then you will be able to win the game.
 
+## Gameplay:
+
+![First RPG Game 2023-08-30 13-34-49](https://github.com/dhananjay-Byte/GemCollectorGame/assets/82323909/1c446ea9-e168-45df-9c3b-2cace5817e13)
+
 
 
 
